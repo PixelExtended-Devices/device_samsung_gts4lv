@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gts4lv.mk
+    $(LOCAL_DIR)/aosp_gts4lv.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_gts4lv-user \
-    lineage_gts4lv-userdebug \
-    lineage_gts4lv-eng
+    aosp_gts4lv-user \
+    aosp_gts4lv-userdebug \
+    aosp_gts4lv-eng
