@@ -18,10 +18,10 @@
     "branch": "lineage-20"
   }
   {
-    "remote": "github",
-    "repository": "PixelExperience/hardware_samsung",
+    "remote": "pixelextended-devices",
+    "repository": "hardware_samsung",
     "target_path": "hardware/samsung",
-    "branch": "thirteen"
+    "branch": "trece"
   },
   {
     "remote": "github",
