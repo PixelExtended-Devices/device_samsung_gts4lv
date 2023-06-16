@@ -16,7 +16,7 @@
     "repository": "TheMuppets/proprietary_vendor_samsung_gts4lv",
     "target_path": "vendor/samsung/gts4lv",
     "branch": "lineage-20"
-  }
+  },
   {
     "remote": "pixelextended-devices",
     "repository": "hardware_samsung",
