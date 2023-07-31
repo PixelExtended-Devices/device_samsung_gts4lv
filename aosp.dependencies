@@ -28,5 +28,11 @@
     "repository": "TheMuppets/proprietary_vendor_samsung_gts4lv-common",
     "target_path": "vendor/samsung/gts4lv-common",
     "branch": "lineage-20"
+  },
+  {
+    "remote": "github",
+    "repository": "LeafOS-Project/android_vendor_lineage_compat",
+    "target_path": "vendor/lineage/compat",
+    "branch": "leaf-2.0"
   }
 ]
